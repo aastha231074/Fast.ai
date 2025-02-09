@@ -28,3 +28,7 @@ He described his idea as follows:
 ✅ Built on top of **PyTorch**  
 ✅ Simplifies deep learning for beginners & experts  
 ✅ Powerful APIs for training complex models with ease
+
+---
+
+![Deep Learning Flowchart](./readme.png)
